@@ -20,6 +20,27 @@
       "title": "Golf"},
     {"id": 10,
       "title": "Tennis"}
-]
-}
+],
+  "Work Life": [
+    {"id": 1,
+      "title": "Work"},
+    {"id": 2,
+      "title": "Holidays" },
+    {"id": 3,
+      "title": "School"},
+    {"id": 4,
+      "title": "University"},
+    {"id": 5,
+      "title": "Vacation"},
+    {"id": 6,
+      "title": "Salary"},
+    { "id": 7,
+      "title": "Retirement"},
+    {"id": 8,
+      "title": "House"},
+    {"id": 9,
+      "title": "Employment"},
+    {"id": 10,
+      "title": "Fired"}
+    ]}
 
